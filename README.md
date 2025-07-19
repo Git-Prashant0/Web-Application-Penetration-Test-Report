@@ -41,4 +41,4 @@ This project was conducted in a **simulated and isolated lab environment** using
 ## 📄 Report Preview
 
 The full report is available here:  
-📎 [`ITP-425-Web-App-PenTest-Report-PrashantGupta.pdf`](ITP-425 Web Application Penetration Testing Report - Prashant Gupta.pdf)
+📎 [`ITP-425-Web-App-PenTest-Report-PrashantGupta.pdf`](./https://github.com/Git-Prashant0/Web-Application-Penetration-Test-Report/blob/main/ITP-425%20Web%20Application%20Penetration%20Testing%20Report%20-%20Prashant%20Gupta.pdf)
